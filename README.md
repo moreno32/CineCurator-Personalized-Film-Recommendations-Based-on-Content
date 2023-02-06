@@ -4,7 +4,7 @@
 CineCurator is a powerful and user-friendly tool designed to provide personalized movie recommendations based on content. This tool leverages the power of content-based recommendation systems to analyze the user's movie preferences and suggest similar films that align with their tastes. Whether you're a movie buff looking for new films to add to your watchlist or a casual movie-goer looking for something to stream on a Friday night, CineCurator has got you covered.
 
 ![Category and Subcategory](https://img.shields.io/badge/RS%20Recommender%20System-Recommendations%20based%20on%20content-blue)
-![Category and Subcategory](https://img.shields.io/badge/Recommender%20System-Content-Based%20Recommendations-yellow)
+![Category and Subcategory](https://img.shields.io/badge/Recommender%20System-Content%20Based%20Recommendations-yellow)
 
 ## 🖼️ Images of the Project:
 <img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/CineCurator-Personalized-Film-Recommendations-Based-on-Content/master/reports/figures/CineCurator-Recommendations-Based-on-Content.jpg" width="700" height="388" /><br>
